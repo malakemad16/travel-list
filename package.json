@@ -25,7 +25,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+    "$schema": "https://json.schemastore.org/eslintrc.json"
   },
   "browserslist": {
     "production": [
